@@ -1,4 +1,4 @@
-namespace RetailInventoryManagerAPI.Models
+namespace RetailApi.Models
 {
   public class Item
   {
